@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chris' Cloud and DevOps: Continuous Transformation Site
 
 You can use the [editor on GitHub](https://github.com/scsinc123/cdoct.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
